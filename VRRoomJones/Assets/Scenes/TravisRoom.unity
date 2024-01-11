@@ -246,7 +246,11 @@ Transform:
   m_Children:
   - {fileID: 1320575075}
   m_Father: {fileID: 839505502}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+  m_RootOrder: 1
+>>>>>>> parent of 93417d8 (Added a clock)
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!114 &8924826
 MonoBehaviour:
@@ -561,6 +565,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 2
+<<<<<<< HEAD
 --- !u!1001 &37706281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -630,6 +635,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 278cd79b6d0575544a70c9035c7a440e, type: 3}
+=======
+>>>>>>> parent of 93417d8 (Added a clock)
 --- !u!1 &46884397
 GameObject:
   m_ObjectHideFlags: 0
@@ -1076,7 +1083,11 @@ Transform:
   m_Children:
   - {fileID: 2005786364}
   m_Father: {fileID: 839505502}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+  m_RootOrder: 0
+>>>>>>> parent of 93417d8 (Added a clock)
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!114 &140323067
 MonoBehaviour:
@@ -1245,7 +1256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Version: 3
+  m_Version: 1
   m_UsePipelineSettings: 1
   m_AdditionalLightsShadowResolutionTier: 2
   m_LightLayerMask: 1
@@ -1493,7 +1504,11 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 32.23, y: 5.31, z: 15.66}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &201435708
 MeshRenderer:
@@ -1675,7 +1690,11 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 0.20587435, y: 0.042998403, z: 0.24660705}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0.004085224, y: 0, z: 0}
 --- !u!1001 &271849055
 PrefabInstance:
@@ -1778,7 +1797,11 @@ Transform:
   - {fileID: 1463266187}
   - {fileID: 410087041}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+  m_RootOrder: 2
+>>>>>>> parent of 93417d8 (Added a clock)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &292399574 stripped
 Transform:
@@ -3001,8 +3024,13 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 286184666}
   m_RootOrder: 2
+=======
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+>>>>>>> parent of 93417d8 (Added a clock)
   m_LocalEulerAnglesHint: {x: 163.801, y: -46.75702, z: 7.126007}
 --- !u!114 &410087042
 MonoBehaviour:
@@ -3016,7 +3044,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Version: 3
+  m_Version: 1
   m_UsePipelineSettings: 1
   m_AdditionalLightsShadowResolutionTier: 2
   m_LightLayerMask: 1
@@ -3144,7 +3172,11 @@ Transform:
   - {fileID: 362626856}
   - {fileID: 1705144928}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+  m_RootOrder: 3
+>>>>>>> parent of 93417d8 (Added a clock)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &434743800
 PrefabInstance:
@@ -3613,7 +3645,11 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 0.20587435, y: 0.042998403, z: 0.24660705}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0.004085224, y: 0, z: 0}
 --- !u!4 &604015478 stripped
 Transform:
@@ -4569,7 +4605,11 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 0.20458332, y: 0.04555917, z: 0.24660705}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0.0034397058, y: 0.00036501698, z: 0}
 --- !u!1 &712900736
 GameObject:
@@ -5948,7 +5988,11 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 1, y: 1, z: 1}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &870590741
 MeshRenderer:
@@ -6526,25 +6570,71 @@ MonoBehaviour:
   m_PositionInput:
     m_UseReference: 0
     m_Action:
+<<<<<<< HEAD
       m_Name: Position Input
       m_Type: 0
       m_ExpectedControlType: 
       m_Id: 9d2a914b-cdb9-42c9-bde6-cd08d6007bce
+=======
+      m_Name: Position
+      m_Type: 0
+      m_ExpectedControlType: Vector3
+      m_Id: 4dbfbe7b-17e7-4f79-850b-c201e8c150ac
+>>>>>>> parent of 93417d8 (Added a clock)
       m_Processors: 
       m_Interactions: 
-      m_SingletonActionBindings: []
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: 7e032e6d-a7d3-4506-9738-ae6666eebbce
+        m_Path: <XRHMD>/centerEyePosition
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Position
+        m_Flags: 0
+      - m_Name: 
+        m_Id: 7c31dec6-302c-4acb-81d8-618b591e1b3e
+        m_Path: <HandheldARInputDevice>/devicePosition
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Position
+        m_Flags: 0
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_RotationInput:
     m_UseReference: 0
     m_Action:
+<<<<<<< HEAD
       m_Name: Rotation Input
       m_Type: 0
       m_ExpectedControlType: 
       m_Id: f8e8caba-c82b-4fb1-83bb-155fe8f74efe
+=======
+      m_Name: Rotation
+      m_Type: 0
+      m_ExpectedControlType: Quaternion
+      m_Id: 61ebd82e-6033-4807-8a46-796ca18ccc59
+>>>>>>> parent of 93417d8 (Added a clock)
       m_Processors: 
       m_Interactions: 
-      m_SingletonActionBindings: []
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: 5ce03de4-fad0-4f2d-807b-65c3dea8b4c8
+        m_Path: <XRHMD>/centerEyeRotation
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Rotation
+        m_Flags: 0
+      - m_Name: 
+        m_Id: d770c2d4-7e67-4049-9836-c4f91b571070
+        m_Path: <HandheldARInputDevice>/deviceRotation
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Rotation
+        m_Flags: 0
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_TrackingStateInput:
@@ -7894,7 +7984,11 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 32.23, y: 5.31, z: 15.66}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1149633447
 MeshRenderer:
@@ -8342,7 +8436,11 @@ Transform:
   - {fileID: 1218863063}
   - {fileID: 129654168}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 3
+=======
+  m_RootOrder: 4
+>>>>>>> parent of 93417d8 (Added a clock)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1178093034
 PrefabInstance:
@@ -11501,7 +11599,11 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 0.20458332, y: 0.04555917, z: 0.24660705}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0.0034397058, y: 0.00036501698, z: 0}
 --- !u!4 &1546905474 stripped
 Transform:
@@ -12265,7 +12367,11 @@ Transform:
   - {fileID: 201435705}
   - {fileID: 1149633444}
   m_Father: {fileID: 427943459}
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+  m_RootOrder: 3
+>>>>>>> parent of 93417d8 (Added a clock)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1723610268 stripped
 GameObject:
@@ -13980,7 +14086,11 @@ Transform:
   - {fileID: 139200559}
   - {fileID: 410606283}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+  m_RootOrder: 1
+>>>>>>> parent of 93417d8 (Added a clock)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1927530680 stripped
 GameObject:
@@ -14421,7 +14531,11 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 0.20458332, y: 0.04555917, z: 0.24660705}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0.0034397058, y: 0.00036501698, z: 0}
 --- !u!1 &1960431360 stripped
 GameObject:
@@ -15079,7 +15193,11 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
+<<<<<<< HEAD
   m_Size: {x: 2, y: 2, z: 2}
+=======
+  m_Size: {x: 0.20458332, y: 0.04555917, z: 0.24660705}
+>>>>>>> parent of 93417d8 (Added a clock)
   m_Center: {x: 0.0034397058, y: 0.00036501698, z: 0}
 --- !u!1 &1990939959 stripped
 GameObject:
