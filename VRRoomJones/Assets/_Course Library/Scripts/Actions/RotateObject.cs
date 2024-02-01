@@ -53,7 +53,7 @@ public class RotateObject : MonoBehaviour
             Rotate();
     }
 
-    private void Rotate()
+    public void Rotate()
     {
         transform.Rotate(transform.up, (sensitivity * speed) * Time.deltaTime);
     }
